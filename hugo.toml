@@ -1,0 +1,5 @@
+baseURL = "https://austin90410-afk.github.io/mysite/"
+languageCode = 'zh-tw'
+title = '我的網站'
+
+theme = 'PaperMod'

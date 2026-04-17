@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 我的網站</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 我的網站</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 17 Apr 2026 16:17:23 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test嘗試</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Fri, 17 Apr 2026 16:17:23 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;我的第一篇網站文章&#34;&gt;我的第一篇網站文章&lt;/h1&gt;
+&lt;p&gt;這是測試 Hugo 是否正常顯示文章。&lt;/p&gt;
+&lt;h2 id=&#34;測試內容&#34;&gt;測試內容&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo 是否正常運作&lt;/li&gt;
+&lt;li&gt;Markdown 是否正常解析&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
