@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>我的網站</title>
+    <link>https://austin90410-afk.github.io/mysite/</link>
+    <description>Recent content on 我的網站</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 17 Apr 2026 16:17:23 +0800</lastBuildDate>
+    <atom:link href="https://austin90410-afk.github.io/mysite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clinical Case Scenario</title>
+      <link>https://austin90410-afk.github.io/mysite/posts/test/</link>
+      <pubDate>Fri, 17 Apr 2026 16:17:23 +0800</pubDate>
+      <guid>https://austin90410-afk.github.io/mysite/posts/test/</guid>
+      <description>&lt;h1 id=&#34;clinical-case-scenario&#34;&gt;Clinical Case Scenario&lt;/h1&gt;
+&lt;p&gt;A 28-year-old female with a history of mild anxiety presents to the outpatient cardiology clinic for a routine evaluation after being told she had a &amp;ldquo;heart murmur&amp;rdquo; during a physical exam for a new job. She is generally asymptomatic but reports occasional episodes of sharp, localized chest pain and palpitations that are unrelated to physical exertion.&lt;/p&gt;
+&lt;p&gt;Physical Examination:
+Vital Signs: BP 118/76 mmHg, HR 72 bpm, RR 14 breaths/min.
+Cardiovascular: On auscultation at the apex, there is a mid-systolic click followed by a late systolic murmur.
+Dynamic Auscultation: * When the patient stands up from a squatting position, the click occurs earlier in systole and the murmur becomes longer and louder.
+When the patient performs a squatting maneuver, the click moves later into systole and the murmur decreases in intensity.
+Musculoskeletal: The patient has a slender build with relatively long fingers (arachnodactyly) and mild pectus excavatum.
+Laboratory Investigations:
+ECG: Normal sinus rhythm with occasional premature ventricular contractions (PVCs).
+Transthoracic Echocardiography (TTE):
+M-mode/2D: Shows superior displacement of the posterior mitral valve leaflet into the left atrium during systole ($&amp;gt;2$ mm beyond the mitral annular plane).
+Morphology: The leaflets appear thickened ($&amp;gt;5$ mm) and redundant, consistent with myxomatous degeneration.
+Color Doppler: Trace to mild mitral regurgitation is noted.
+What is the most likely diagnosis for this patient?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
